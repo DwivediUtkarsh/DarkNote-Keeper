@@ -12,3 +12,5 @@ Reusable Components: Modular architecture with components like Note, CreateArea,
 Frontend: React.js
 Styling: CSS (Dark Theme, Animations, Responsive Design)
 Version Control: Git, GitHub
+
+Website is deployed at : https://dwivediutkarsh.github.io/DarkNote-Keeper/
